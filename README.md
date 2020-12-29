@@ -1,10 +1,7 @@
 # Assisted-Training-Autonomous-Race-Preparation
 sample code for rC3 workshop, Dec 29th, 2020
 
-
-# README Setup Race #7
-
-## 1 Clone Environment (sds6)
+## 1 Environment
 ```
 (conda create --name sds7 --clone sds6)
 
